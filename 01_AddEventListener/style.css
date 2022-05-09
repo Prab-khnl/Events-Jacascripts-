@@ -1,0 +1,35 @@
+#btn1 {
+    height:200px;
+    width:400px;
+    border-radius:20px;
+    border:2px solid burlywood;
+    font-size:32px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn2 {
+    height:200px;
+    width:400px;
+    border-radius:20px;
+    border:2px solid red;
+    font-size:40px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn3 {
+    height:200px;
+    width:400px;
+    border-radius:20px;
+    border:2px solid red;
+    font-size:40px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
